@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aipoozibo.originalnoir.dk/sitemap.xml
